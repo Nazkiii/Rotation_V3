@@ -7,7 +7,7 @@ webhooks = {
 },
 -----------------------
 bot_config = {
-  ["World"] = {"EGHMQ"},
+  ["World"] = {"LFAER"},
   ["Door"] = 'KONTOLABIS',
   ["Loop"] = true,
   ["Save_Mode"] = 1,
@@ -44,8 +44,8 @@ bot_environment = {
               },
   ["Buy"] = {
             ["Mode"] = true,
-            ["Name"] = 'world_lock',
-            ["Price"] = 2000,
+            ["Name"] = 'world_lock_10_pack',
+            ["Price"] = 20000,
             ["Item_List"] = {242,1828},
             ["Limit"] = 10,
             ["When"] = {
@@ -54,7 +54,7 @@ bot_environment = {
                         ["Break"]   = true
                        }
             },
-  ["Jammer"] = false,
+  ["Jammer"] = true,
   ["Ban"] = {
             ["Mode"] = false,
             ["Ignore"] = {"Ignored_Name"}
@@ -74,7 +74,7 @@ webhooks = {
 },
 -----------------------
 bot_config = {
-  ["World"] = {"PVZKL"},
+  ["World"] = {"PSWTS"},
   ["Door"] = 'KONTOLABIS',
   ["Loop"] = true,
   ["Save_Mode"] = 1,
@@ -111,8 +111,8 @@ bot_environment = {
               },
   ["Buy"] = {
             ["Mode"] = true,
-            ["Name"] = 'world_lock',
-            ["Price"] = 2000,
+            ["Name"] = 'world_lock_10_pack',
+            ["Price"] = 20000,
             ["Item_List"] = {242,1828},
             ["Limit"] = 10,
             ["When"] = {
@@ -121,7 +121,7 @@ bot_environment = {
                         ["Break"]   = true
                        }
             },
-  ["Jammer"] = false,
+  ["Jammer"] = true,
   ["Ban"] = {
             ["Mode"] = false,
             ["Ignore"] = {"Ignored_Name"}
