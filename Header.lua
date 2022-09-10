@@ -74,7 +74,7 @@ webhooks = {
 },
 -----------------------
 bot_config = {
-  ["World"] = {"EGHMQ"},
+  ["World"] = {"PVZKL"},
   ["Door"] = 'KONTOLABIS',
   ["Loop"] = true,
   ["Save_Mode"] = 1,
